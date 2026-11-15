@@ -23,12 +23,14 @@ Runtime UI: The shader and mesh settings are exposed as two panels ("Shader Cont
   <figcaption>Demonstrates how to adjust the UI scale if it is too small to use. Select the second slider from the bottom and drag to the right until it becomes more visible. These projects initially were built to run inside of Unity, but to avoid requiring you to download and install Unity and release my project code publicly, I have come up with this dynamic UI solution.</figcaption>
 </figure>
 <br />
+<br />
 
 <figure>
   <img width="600" height="337" alt="Basic_Controls" src="https://github.com/user-attachments/assets/f3170bac-8928-4a6b-a1ca-655a765dd24c" />
   <br />
   <figcaption>Demonstrating basic UI controls on the second pass filter. Control the y (height) offset, the x and z amplitude and period, and other aspects of the runtime mesh.</figcaption>
 </figure>
+<br />
 <br />
 
 <figure>
@@ -37,12 +39,14 @@ Runtime UI: The shader and mesh settings are exposed as two panels ("Shader Cont
   <figcaption>Demonstrating the color blending of the texture and user-selected color.</figcaption>
 </figure>
 <br />
+<br />
 
 <figure>
   <img width="600" height="337" alt="XZ_Blend" src="https://github.com/user-attachments/assets/3b277b33-8482-4a96-ac77-e89869307318" />
   <br />
   <figcaption>Demonstrating the blending between X- and Z-axis sinusoidal functions.</figcaption>
 </figure>
+<br />
 <br />
 
 <figure>
@@ -51,12 +55,14 @@ Runtime UI: The shader and mesh settings are exposed as two panels ("Shader Cont
   <figcaption>Demonstrating the animation effect achieved by using Sin(time) GPU functions.</figcaption>
 </figure>
 <br />
+<br />
 
 <figure>
   <img width="600" height="337" alt="Resolution_Control_Animated" src="https://github.com/user-attachments/assets/3b0f40a6-28d0-45f2-bce6-8b46defd68ff" />
   <br />
   <figcaption>Demonstrating the effect of changing the mesh resolution on the animation smoothness.</figcaption>
 </figure>
+<br />
 <br />
 
 # Code Release Restrictions:
