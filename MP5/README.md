@@ -24,7 +24,7 @@ Runtime UI: A reflection-based UI manager discovers every component that impleme
 <figure>
   <img width="600" height="335" alt="Material_Properties" src="https://github.com/user-attachments/assets/48f1b90c-340f-40d4-976d-a29146b4e816" />
   <br />
-  <figcaption>Each object has individual material properties like the previous project. Now, we have full control over ambient (Ka and ambient color), diffuse (Kd and diffuse color), and specularity (specular color r and shininess) components of the Blinn-Phong Illumination model.</figcaption>
+  <figcaption>Each object has individual material properties like the previous project. Now, we have full control over ambient (Ka and ambient color), diffuse (Kd and diffuse color), and specularity (specular color and shininess) components of the Blinn-Phong Illumination model.</figcaption>
 </figure>
 <br />
 <br />
