@@ -69,8 +69,6 @@ Scene Control: A single SceneControl component gathers the parameters of the gro
 <br />
 <br />
 
-# Code Release Restrictions:
-Because this is a University of Washington Bothell course, I cannot publicly release my code solutions to these problems. However, code samples may be sent by request for hiring purposes (e.g. reviewing my previous work as it relates to a software engineering job).
 <figure>
   <img width="600" height="335" alt="Torch_Cube" src="https://github.com/user-attachments/assets/37780193-79f1-4b56-9c30-2b16558b06cd" />
   <br />
@@ -79,3 +77,5 @@ Because this is a University of Washington Bothell course, I cannot publicly rel
 <br />
 <br />
 
+# Code Release Restrictions:
+Because this is a University of Washington Bothell course, I cannot publicly release my code solutions to these problems. However, code samples may be sent by request for hiring purposes (e.g. reviewing my previous work as it relates to a software engineering job).
